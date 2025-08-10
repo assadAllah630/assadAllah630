@@ -1,6 +1,6 @@
-- 👋 Hi, I’m assad allah alebrahim BI analyst 
+- 👋 Hi, I’m assad allah alebrahim AI Engineer & Business Intelligence, 
 - 👀 I’m interested in AI, BI, marketing analysis, and data engineering
-- 🌱 I’m currently learning marketing science
+- 🌱 I’m currently learning marketing science, AI agent
 - 💞️ I’m looking to collaborate on BI projects and data analytics
 - 📫 How to reach me - email assad.allah630@gmail.com or phone_number:+961 76876530 
 - ⚡ Fun fact: i am not lion 
