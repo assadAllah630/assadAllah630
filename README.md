@@ -15,7 +15,7 @@
 ## 📫 Get in Touch  
 - 📧 Email: **[assad.allah630@gmail.com](mailto:assad.allah630@gmail.com)**  
 - 📱 Phone: **+961 76 876 530**  
-- 🌐 LinkedIn: [linkedin.com/in/assadallah](https://linkedin.com/in/assadallah) 
+- 🌐 LinkedIn: [linkedin.com/in/assad-allah-alebrahim-04849137a](https://www.linkedin.com/in/assad-allah-alebrahim-04849137a/)
 - 🐦 X: [@a93445_allah](https://x.com/a93445_allah) 
 
 ---
