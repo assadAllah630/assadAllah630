@@ -1,11 +1,42 @@
-- 👋 Hi, I’m assad allah alebrahim AI Engineer & Business Intelligence, 
-- 👀 I’m interested in AI, BI, marketing analysis, and data engineering
-- 🌱 I’m currently learning marketing science, AI agent
-- 💞️ I’m looking to collaborate on BI projects and data analytics
-- 📫 How to reach me - email assad.allah630@gmail.com or phone_number:+961 76876530 
-- ⚡ Fun fact: i am not lion 
+# 👋 Hi there, I’m Assad Allah Alebrahim  
 
-<!---
-assadAllah630/assadAllah630 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**AI Engineer | Business Intelligence Analyst | Data Enthusiast**  
+
+---
+
+## 🚀 About Me  
+- 💡 Passionate about **AI, Business Intelligence, Marketing Analytics, and Data Engineering**  
+- 📚 Currently learning **Marketing Science** and **AI Agent Development**  
+- 🤝 Open to collaborating on **BI projects, Data Analytics, and AI-driven solutions**  
+- ⚡ Fun fact: I’m *not* a lion 🦁 (but I’m always hungry for knowledge!)  
+
+---
+
+## 📫 Get in Touch  
+- 📧 Email: **[assad.allah630@gmail.com](mailto:assad.allah630@gmail.com)**  
+- 📱 Phone: **+961 76 876 530**  
+- 🌐 LinkedIn: [linkedin.com/in/assadallah](https://linkedin.com/in/assadallah) 
+- 🐦 X: [@a93445_allah](https://x.com/a93445_allah) 
+
+---
+
+## 🛠️ Tech Stack  
+**Languages & Tools:**  
+`Python` | `SQL` | `Power BI` | `Pandas` | `NumPy` | `Scikit-learn` | `LangChain` | `Apache Spark` | `Odoo`  
+
+**Specialties:**  
+- 📊 Data Visualization & Business Reporting  
+- 🧠 AI & Machine Learning Models  
+- 📈 Marketing & Customer Analytics  
+- ⚙️ Data Pipelines & ETL  
+
+---
+
+## 📌 Current Focus  
+- Building **AI Agents** for analytics automation  
+- Enhancing **Marketing Analytics** skills for data-driven decision making  
+- Exploring **end-to-end BI solutions** for business growth  
+
+---
+
+> *"Data is the new oil, but only if you know how to refine it."*  
